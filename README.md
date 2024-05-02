@@ -4,7 +4,7 @@
 
 * At the end of the quiz, the app calculates your score based on your responses, providing immediate feedback on your performance. This scoring feature allows you to track your progress over time and identify areas for improvement.
 
-* Whether you're a beginner just starting out with ReactJs or an experienced developer looking to refresh your knowledge, the ReactJs Quiz App is a great tool to learn, practice, and master ReactJs! Happy learning!
+* Whether you're a beginner just starting out with ReactJs or an experienced developer looking to refresh your knowledge, the ReactJs Quiz App is a great tool to learn, practice, and master ReactJs! Happy learning!!
 
 <hr>
 
